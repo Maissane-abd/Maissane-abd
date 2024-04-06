@@ -7,7 +7,7 @@ Bonjour 👋! Je suis Maïssane, 21 ans, basé à Paris. Je me décris comme un 
 - **Origines :** J'ai d'abord entamé une licence de droit juste après le bac, pensant que c'était ma voie. Cependant, ma passion pour le code et la technologie a fini par l'emporter.
 - **Réorientation :** Ma curiosité pour le développement m'a poussé à commencer un apprentissage en autodidacte sur des plateformes telles qu'**OpenClassrooms** et **freeCodeCamp**.
 - **Formation Professionnelle :** Mon intérêt croissant pour le développement web m'a amené à rejoindre l'école **O'clock**, où je me suis spécialisé en **JavaScript/React**.
-- **Expérience Pratique :**  Actuellement, je travaille avec mes associés sur **PlaygroundExplorer**, une application web servant d'annuaire pour les aires de jeux. J'aurai l'opportunité d'effectuer un stage chez **P4W** en mai, contribuant au développement de l'application **Socializus** en React Native.
+- **Expérience Pratique :**  Actuellement, je travaille avec mes associés sur **PlaygroundExplorer**, une application web servant d'annuaire pour les aires de jeux. J'aurai l'opportunité d'effectuer un stage chez **P4W** en mai, contribuant au développement de l'application **Socializus** en **React Native**.
 
 ## 🔍 Ce Que Je Recherche
 
