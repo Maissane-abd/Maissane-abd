@@ -1,6 +1,6 @@
 # Bienvenue sur le profil GitHub de Maïssane ABDALLAH !
 
-Bonjour 👋! Je suis Maïssane, 21 ans, basé à Paris. Je me décris comme un étudiant développeur web full-stack passionné et autodidacte. Actuellement, je suis à la recherche d'une entreprise qui pourrait m'accueillir dans le cadre d'une alternance pour ma 3e année de développement web à l'ESGI en format 3semaines entreprise / 1semaine cours. Voici un peu plus sur mon parcours et ce que je recherche :
+Bonjour 👋! Je suis Maïssane, 21 ans, basé à Paris. Je suis développeur web full-stack passionné et autodidacte. Actuellement, je suis à la recherche d'une entreprise qui pourrait m'accueillir dans le cadre d'une alternance pour ma 3e année de développement web à l'ESGI en format 3semaines entreprise / 1semaine cours. Voici un peu plus sur mon parcours et ce que je recherche :
 
 ## 🎓 Mon Parcours
 
