@@ -1,27 +1,36 @@
-# Bienvenue sur le profil GitHub de Maïssane ABDALLAH !
+# 👋 Bonjour, je suis Maïssane Abdallah !  
 
-Bonjour 👋! Je suis Maïssane, 21 ans, Paris. Je suis développeur web full-stack passionné et autodidacte. Actuellement, je suis à la recherche d'une entreprise qui pourrait m'accueillir dans le cadre d'une alternance pour ma 3e année de développement web à l'ESGI en format 3 semaines entreprise / 1 semaine école. Voici un peu plus sur mon parcours et ce que je recherche :
+### 💻 À propos de moi  
+Je suis un **étudiant en informatique de 22 ans** à l’ESGI, spécialisé en développement web. Passionné par les **nouvelles technologies**, je suis actuellement **développeur web en alternance**, avec une expérience en **freelance** pour la création de sites Shopify destinés à des marques de vêtements.  
 
-## 🎓 Mon Parcours
+Mon parcours mêle compétences techniques et créativité, avec une expérience dans :  
+- **La gestion et l’optimisation de sites e-commerce avec Shopify.**  
+- **La création de sites web modernes** en JavaScript, Node.js et React.js.  
+- **L’exploration d’outils et technologies divers** : Docker, Linux, PHP, WordPress, Bootstrap.  
 
-- **Origines :** J'ai d'abord entamé une licence de droit juste après le bac, pensant que c'était ma voie. Cependant, ma passion pour le code et la technologie a fini par l'emporter.
-- **Réorientation :** Ma curiosité pour le développement m'a poussé à commencer un apprentissage en autodidacte sur des plateformes telles qu'**OpenClassrooms** et **freeCodeCamp**.
-- **Formation Professionnelle :** Mon intérêt croissant pour le développement web m'a amené à rejoindre l'école **O'clock**, où je me suis spécialisé en **JavaScript/React** et y obtenir mon Bac +2.
-- **Expérience Pratique :**   j'ai eu l'occasion de travailler avec mes associés sur **PlaygroundExplorer**, une application web servant d'annuaire pour les aires de jeux. J'ai l'opportunité d'effectuer des stages chez **Creazzy**, **Alexandro Fratelli** et en juin 2024 avec **P4W** en contribuant au développement de l'application **Socializus** en **React Native**.
+### 🎯 Objectifs & Intérêts  
+Je souhaite :  
+- Trouver une **alternance pour 2026/2027** afin de poursuivre mes études en master.  
+- Développer mes compétences en **freelance**, en assumant des responsabilités supplémentaires en semaine.  
+- Contribuer à des **causes sociales**, notamment via du bénévolat.  
 
-## 🔍 Ce Que Je Recherche
+En dehors de la technologie, je suis un **passionné de sport** et un amateur de **littérature**.  
 
-Je suis en quête d'une alternance qui me permettra de mettre en pratique et d'approfondir mes connaissances en développement web. Ce que je peux apporter :
+### 🛠️ Compétences techniques  
+- **Langages** : HTML, CSS, JavaScript, React, SQL  
+- **Frameworks & Plateformes** : Shopify, Node.js, Visual Studio Code, VMware Fusion  
+- **Systèmes d'exploitation** : Linux, Windows, macOS  
+- **Outils divers** : Galaxy Book avec configuration double écran et MacBook Air  
 
-- **Motivation et Passion :** Ma transition du droit au développement web témoigne de ma détermination à suivre ma passion.
-- **Apprentissage Autonome :** Mon parcours autodidacte prouve ma capacité à apprendre et à m'adapter rapidement.
-- **Expérience Pratique :** Mon expérience avec des projets réels, comme le développement de **Socializus** et **PlaygroundExplorer**, montre ma capacité à contribuer efficacement à des projets en équipe.
-- **Soft Skills :** Très à l'écoute, organisé et souriant je suis capable de travailler en équipe et de m'adapter aux besoins d'un projet.
+### 🚀 Projets en cours  
+- Développement d’un **CMS personnalisé** en JavaScript.  
+- Création d’un **nouveau portfolio professionnel**.  
+- Conception d’un **site Shopify** pour une marque de vêtements.  
 
-## 📫 Contactez-Moi
+### 🚗 Petit plus  
+Je possède un véhicule personnel et je maîtrise bien la **ligne 14 du métro** – toujours prêt à relever de nouveaux défis !  
 
-Si vous êtes à la recherche d'un étudiant motivé, passionné par le développement web et prêt à s'investir dans une alternance enrichissante, n'hésitez pas à me contacter à l'adresse suivante : abd.maissane@gmail.com
+### 📫 Me contacter  
+- **Email** : abd.maissane@gmail.com  
 
-Je suis prêt à discuter de comment je pourrais apporter ma pierre à l'édifice de votre entreprise. Merci de considérer ma candidature pour faire partie de votre équipe.
-
-
+N’hésitez pas à explorer mes dépôts et à suivre mon aventure dans le domaine de la tech !  
