@@ -13,20 +13,19 @@ Actuellement en alternance en développement web, je suis à la recherche d’un
 ### 🌟 Expériences
 - **Alternant Développeur Web (2024 - Aujourd'hui)** : Développement et optimisation de sites Shopify
 - **Freelance Shopify & SEO** : Refonte de sites, optimisation SEO et campagnes marketing
-- **Gestion de projets Web** : Création d’applications et de plateformes en SaaS
+- **Gestion de projets Web (en cours)** : Création de blog et de site web en Javascript, NextJs, React, etc.
 
 ### 📚 Projets en cours
 - **CodeNawak** : Un blog tech développé en Next.js
 - **Site de backlinks camouflés** : Un média référençant de nouveaux projets via des articles SEO
-- **Application de paris fictifs** : Un projet gamifié liant sport et engagement des utilisateurs
+- **Application de paris fictifs** : Un projet gamifié liant sport et engagement des utilisateurs pour lutter contre l'addiction
 
 ### 👀 Ce que je recherche
-Je souhaite rejoindre une entreprise dynamique où je pourrai contribuer à des projets innovants tout en continuant à monter en compétences sur **le SEO, Shopify et l’email marketing**.
+Je souhaite rejoindre une entreprise dynamique où je pourrai contribuer à des projets innovants tout en continuant à monter en compétences sur **le SEO, Shopify et le développemet web**.
 
 ### 📬 Contact
-- **LinkedIn** : [Ton profil ici]
-- **Twitter** : [@MalLuné](https://twitter.com/MalLune)
-- **Email** : [Ton email ici]
+- **LinkedIn** : https://www.linkedin.com/in/maïssane-abdallah/
+- **Email** : [abd.maissane@gmail.com]
 
-Si mon profil t'intéresse, n’hésite pas à me contacter !
+Si mon profil vous intéresse, n’hésite pas à me contacter !
 
