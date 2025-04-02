@@ -5,7 +5,7 @@
 Actuellement en alternance en développement web, je suis à la recherche d’une nouvelle opportunité dans une entreprise où je pourrai exploiter pleinement mes compétences en **Shopify**, **SEO**, et **développement web**. 
 
 ### 💻 Compétences
-- **Développement Web** : Shopify, JavaScript, React, HTML, CSS, SASS
+- **Développement Web Shopify** : Shopify, JavaScript, React, HTML, CSS, SASS
 - **SEO & Growth Hacking** : Optimisation technique, netlinking, analyse avec Screaming Frog
 - **Email Marketing** : Automatisation et campagnes sur Shopify
 - **E-commerce** : Expérience avec la refonte et l'optimisation de boutiques Shopify
@@ -25,7 +25,7 @@ Je souhaite rejoindre une entreprise dynamique où je pourrai contribuer à des 
 
 ### 📬 Contact
 - **LinkedIn** : https://www.linkedin.com/in/maïssane-abdallah/
-- **Email** : [abd.maissane@gmail.com]
+- **Email** : abd.maissane@gmail.com
 
 Si mon profil vous intéresse, n’hésite pas à me contacter !
 
