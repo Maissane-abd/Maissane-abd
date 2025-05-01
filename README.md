@@ -1,14 +1,20 @@
 # Maïssane - Développeur Web & SEO
 
-## 💼 En recherche d'alternance 💼
+## 🎓 Étudiant en Bachelor Informatique  💼
 
-Actuellement en alternance en développement web, je suis à la recherche d’une nouvelle opportunité dans une entreprise où je pourrai exploiter pleinement mes compétences en **Shopify**, **SEO**, et **développement web**. 
+Actuellement en alternance, je développe mes compétence en **Shopify**, **SEO**, **email marketing** et **e-commerce**. 
 
 ### 💻 Compétences
 - **Développement Web Shopify** : Shopify, JavaScript, React, HTML, CSS, SASS
 - **SEO & Growth Hacking** : Optimisation technique, netlinking, analyse avec Screaming Frog
 - **Email Marketing** : Automatisation et campagnes sur Shopify
 - **E-commerce** : Expérience avec la refonte et l'optimisation de boutiques Shopify
+
+### 🚀 En formation continue
+
+Actuellement en train de suivre la formation **[Liquid Storefronts for Theme Developers](https://shopify.dev/)** sur Shopify Academy.  
+Je suis temporairement bloqué à l’étape de création d’un **compte Shopify Partner**, requis pour accéder à certaines fonctionnalités (comme la création de boutiques de développement).  
+Je ne travaille actuellement pour aucune entreprise partenaire et je ne suis pas encore enregistré en tant qu’entreprise.
 
 ### 🌟 Expériences
 - **Alternant Développeur Web (2024 - Aujourd'hui)** : Développement et optimisation de sites Shopify
@@ -17,11 +23,16 @@ Actuellement en alternance en développement web, je suis à la recherche d’un
 
 ### 📚 Projets en cours
 - **CodeNawak** : Un blog tech développé en Next.js
-- **Site de backlinks camouflés** : Un média référençant de nouveaux projets via des articles SEO
-- **Application de paris fictifs** : Un projet gamifié liant sport et engagement des utilisateurs pour lutter contre l'addiction
+- 🔁 Refonte de boutiques Shopify existantes (Koreanelle, Alexandro Fratelli)
+
+### 💼 Objectifs 2025
+
+- Devenir **Shopify Partner**
+- Être reconnu dans le domaine du **e-commerce pour Shopify**
 
 ### 👀 Ce que je recherche
-Je souhaite rejoindre une entreprise dynamique où je pourrai contribuer à des projets innovants tout en continuant à monter en compétences sur **le SEO, Shopify et le développemet web**.
+Je souhaite rejoindre une entreprise shopify partner où je pourrai contribuer à des projets innovants tout en continuant à monter en compétences sur **le SEO, Shopify et le développemet web**.
+
 
 ### 📬 Contact
 - **LinkedIn** : https://www.linkedin.com/in/maïssane-abdallah/
