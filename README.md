@@ -12,7 +12,7 @@ Actuellement en alternance, je développe mes compétence en **Shopify**, **SEO*
 
 ### 🚀 En formation continue
 
-Actuellement en train de suivre la formation **[Liquid Storefronts for Theme Developers](https://www.shopifyacademy.com/path/liquid-storefronts-for-theme-developers)** sur Shopify Academy.  
+Actuellement en train de suivre la formation **[Liquid Storefronts for Theme Developers]** sur Shopify Academy.  
 Je suis temporairement bloqué à l’étape de création d’un **compte Shopify Partner**, requis pour accéder à certaines fonctionnalités (comme la création de boutiques de développement).  
 Je ne travaille actuellement pour aucune entreprise partenaire et je ne suis pas encore enregistré en tant qu’entreprise.
 
