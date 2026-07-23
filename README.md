@@ -1,22 +1,81 @@
-<h1 align="center">Bonjour 👋, je suis Maïssane ABDALLAH</h1>
-<h3 align="center">Informaticien/Développeur Full Stack/DevOps/Chef de projet e-commerce de Paris,</h3>
+# Hi, I'm Maïssane 👋
 
-- 🔭 Je travaille actuellement sur [Comores'Explores](https://github.com/Maissane-abd/Comores-Explores.git)
+I am a junior web developer based near Paris, France.
 
-- 🌱 Je suis entrain d'apprendre les stacks : **Python, NextJs et Liquid**
+I have one year of apprenticeship experience managing and customizing a Shopify e-commerce store. My work combined Shopify's administration and no-code tools with front-end development using JavaScript, HTML and CSS.
 
-- 👥 Je cherche une alternance avec des stacks : **Javascript/Shopify/Python**
+I am currently strengthening my JavaScript and React skills while rebuilding my portfolio around complete, documented and deployed projects.
 
-- 👨‍💻 Tous mes projets sont disponibles sur [Maissane-abdallah.fr](Maissane-abdallah.fr)
+I am preparing for a web development apprenticeship starting in 2027.
 
-- 📫 Me contacter **abd.maissane@gmail.com**
+## Experience
 
-- ⚡ Fun fact **Je joue au basket**
+During my Shopify apprenticeship, I worked on:
 
-<h3 align="left">Se connecter:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/maïssane-abdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maïssane-abdallah" height="30" width="40" /></a>
-</p>
+* Day-to-day management of an e-commerce store
+* Product and content updates
+* Shopify theme customization
+* Front-end adjustments with JavaScript, HTML and CSS
+* User experience and website improvements
+* SEO and content optimization
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+This experience helped me understand how technical work supports real business and e-commerce needs.
+
+## Technical skills
+
+### Current skills
+
+* JavaScript
+* HTML5
+* CSS3
+* React
+* PostgreSQL
+* Docker
+* Shopify
+* SEO
+* Theme customization
+* Git and GitHub
+
+### Currently improving
+
+* TypeScript
+* Python
+* Tailwind
+* Front-end application architecture
+* Code quality and maintainability
+* Testing and technical documentation
+
+## Featured project
+
+### Budgie
+
+Budgie is a personal finance management application that I am currently rebuilding with React.
+
+A first version was created with Vue.js. I am now rebuilding the project to improve its interface, code structure, documentation and development workflow.
+
+The new version will include:
+
+* A clear and responsive user interface
+* Income and expense management
+* Financial account tracking
+* Data visualization
+* A documented installation process
+* Meaningful Git commits
+* Tests for important features
+* An online demonstration
+
+**Current status:** React rebuild in progress.
+
+## Current objectives
+
+* Complete and deploy the new version of Budgie
+* Build a small selection of polished projects
+* Improve my JavaScript and React fundamentals
+* Write clearer documentation and tests
+* Contribute to an open-source project
+* Find a web development apprenticeship for 2027
+
+## Contact
+
+* LinkedIn: available from my GitHub profile
+* Email: [abd.maissane@gmail.com](mailto:abd.maissane@gmail.com)
