@@ -1,12 +1,27 @@
 # Hi, I'm Maïssane 👋
 
-I am a junior web developer based near Paris, France.
+I am a junior web developer based near Paris, France with a professional background in e-commerce and Shopify.
 
 I have one year of apprenticeship experience managing and customizing a Shopify e-commerce store. My work combined Shopify's administration and no-code tools with front-end development using JavaScript, HTML and CSS.
 
 I am currently strengthening my JavaScript and React skills while rebuilding my portfolio around complete, documented and deployed projects.
 
 I am preparing for a web development apprenticeship starting in 2027.
+
+## What I am looking for
+
+I am preparing to pursue a Master's degree in computer science or web development, equivalent to a French Bac+5 qualification.
+
+I am looking for a 12 to 24-month apprenticeship, work-study contract or equivalent professional opportunity, starting in 2027.
+
+I am open to opportunities:
+
+Anywhere in France
+Elsewhere in Europe
+Internationally
+On-site, hybrid or remote, depending on the position
+
+Companies, startups and international teams are welcome to contact me.
 
 ## Experience
 
@@ -73,7 +88,13 @@ The new version will include:
 * Improve my JavaScript and React fundamentals
 * Write clearer documentation and tests
 * Contribute to an open-source project
-* Find a web development apprenticeship for 2027
+* Prepare for a Master's-level apprenticeship starting in 2027
+
+## Mobility
+
+I am based in France, but my search is not limited to one city or region.
+
+I am open to relocating within France or abroad for the right opportunity. I am also interested in international teams and remote or hybrid working environments.
 
 ## Contact
 
